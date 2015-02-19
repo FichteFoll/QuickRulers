@@ -1,0 +1,5 @@
+[
+  { "caption": "QuickRulers: Open Panel", "command": "quick_rulers" },
+  { "caption": "QuickRulers: Open Panel (without current settings)", "command": "quick_rulers",
+    "args": {"show_current": false} }
+]
