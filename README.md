@@ -1,7 +1,7 @@
 QuickRulers - Sublime Text Plugin
 =================================
 
-![No words needed](http://i.imgur.com/lEKwdBc.gifv)
+![No words needed](http://i.imgur.com/lEKwdBc.gif)
 
 
 ## Installation
